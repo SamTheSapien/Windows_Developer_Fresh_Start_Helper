@@ -22,5 +22,10 @@
 |**VNC Server** | https://www.realvnc.com/en/connect/download/vnc |
 |:--|:--|
 
+## Backups Using Command Line
+|** WBAdmin ++ | wbadmin enable backup | https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin |
+|:--|:--|:--|
+|** Robocopy ++ | robocopy c:\reports '\\marketing\videos' yearly-report.mov /mt /z | https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy |
+
 TO-DO: Make this a powershell script.
 TO-DO-2: With some UI choosing...?
